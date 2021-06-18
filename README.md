@@ -1,6 +1,8 @@
 # vue_lea
 
-> A Vue.js project
+> 计网实验， dddd
+> 结合后台flow—moniter使用
+> x-x 写前端好累啊qwq
 
 ## Build Setup
 
